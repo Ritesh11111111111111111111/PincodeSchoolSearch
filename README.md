@@ -3,7 +3,7 @@
 This is a Django web application that lists the nearest schools in your area based on your provided pin code and coordinates.
 
 <p align="center">
-  <img src="/demo/stationary.gif" alt="GIF">
+  <img src="/demo/PincodeSchoolSearch.gif" alt="GIF">
 </p>
 
 ## Features
