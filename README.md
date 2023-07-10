@@ -2,6 +2,10 @@
 
 This is a Django web application that lists the nearest schools in your area based on your provided pin code and coordinates.
 
+<p align="center">
+  <img src="/demo/stationary.gif" alt="GIF">
+</p>
+
 ## Features
 
 - Users can enter their pin code to see a list of schools in their area.
@@ -61,3 +65,12 @@ Now open your web browser and navigate to `http://localhost:8000` to use the app
   
 ## Note
 This application was developed with Django. It is also important to note that the calculating of distance based on user input coordinates is a fairly expensive operation in terms of computing power, particularly as the list of schools grows. In a production environment with thousands or more schools, you might consider offloading that computation to a background task or using a more efficient algorithm.
+
+## Screenshots
+<p align="center">
+  <img src="/demo/1.png" alt="Image 1" width="100%">
+</p>
+<p align="center">
+  <img src="/demo/2.png" alt="Image 3" width="47%">
+  <img src="/demo/3.png" alt="Image 4" width="47%">
+</p>
